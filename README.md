@@ -1,4 +1,4 @@
-# Java-script-SCOPE
+# Java-script- 3 Theme about
 # Scope, Hoisting и TDZ (Temporal Dead Zone)
 
 ## Введение
